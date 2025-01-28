@@ -13,9 +13,6 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import java.util.Random;
 
-
-
-
 /**
  * MainActivity class handles the main interface of the application,
  * displaying various AlertDialog options for the user.
