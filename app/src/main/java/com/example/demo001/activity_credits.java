@@ -12,7 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
  *
  * @author      Noa Zohar <nz2020@bs.amalnet.k12.il>
  * @version     1.0
- * @since       27/01/2025/**
+ * @since       27/01/2025/
  * short description:
  *        This activity contains 5 buttons, each triggering a different type of AlertDialog.
  *        The dialogs demonstrate various features such as displaying a simple message,
