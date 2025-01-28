@@ -15,9 +15,10 @@ import androidx.appcompat.app.AppCompatActivity;
  * @version     1.0
  * @since       27/01/2025/
  * short description:
- *        This activity contains 5 buttons, each triggering a different type of AlertDialog.
- *        The dialogs demonstrate various features such as displaying a simple message,
- *        showing an icon, handling one or more buttons, and changing the background color.
+ * This activity is responsible for displaying the credits screen, which shows information
+ * about the creators or contributors of the app. It also includes an options menu
+ * where the user can navigate back to the main screen.
+ *
  *
  */
 public class activity_credits extends AppCompatActivity {
